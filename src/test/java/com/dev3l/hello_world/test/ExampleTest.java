@@ -1,4 +1,4 @@
-package com.dev3l.hello_world.test;
+package com.ujjwal82.hello_world.test;
 
 import org.junit.Assert;
 import org.junit.Test;
