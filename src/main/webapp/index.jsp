@@ -9,8 +9,8 @@
   <div class="jumbotron" style="background-color:white">
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h2 class="text-center">Hello World! Ujjwal - v1.2</h2>
-      <p class="text-center">Attemp for DevOps!</p>
+      <h2 class="text-center">Hello World! Ujjwal - v1.3</h2>
+      <p class="text-center">Attempt for DevOps!</p>
   </div>
 </body>
 </html>
